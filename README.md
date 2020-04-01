@@ -1,7 +1,7 @@
 # jet 🛩
 It’s (J)ust (E)leventy and (T)ailwind … OK, and a few other things; it’s still *really* small though.
 * [View on Netlify](https://marcamos-jet.netlify.com/)
-* [View on GitHub](https://github.com/marcamos/jet)
+* [View on GitHub](https://github.com/marcamos/jet#readme)
 
 ## Goal
 [Eleventy](https://www.11ty.dev/) and [Tailwind CSS](https://tailwindcss.com/) (combined with [PurgeCSS](https://purgecss.com/)) are my favorite things right now.
