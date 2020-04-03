@@ -14,10 +14,11 @@ So, I made this thing and it seems to work 🤷‍♀️
 
 ## How you can use it
 1. Clone this repo
-2. Start development: `npm run dev`
-3. Visit http://localhost:8080 to see your work-in-progress
-2. Do super-fun Eleventy and Tailwind things
-3. When you’re done: `npm run build`
+2. Install dependencies: `npm i`
+3. Start development: `npm run dev`
+4. Visit http://localhost:8080 to see your work-in-progress
+5. Do super-fun Eleventy and Tailwind things
+6. When you’re done: `npm run build`
 
 That’s it 🕺
 
