@@ -1,7 +1,7 @@
 {
   "name": "jet",
   "version": "0.0.1",
-  "description": "It's (J)ust (E)leventy and (T)ailwind … OK, and a few other things; it's still *really* small though.",
+  "description": "It's (j)ust (e)leventy and (t)ailwind … OK, and a few other things; it's still *really* small though.",
   "scripts": {
     "clean": "rm -rf public",
     "tailwind": "tailwindcss build src/css/tailwind.css -o src/css/styles.css -c tailwind.config.js",
