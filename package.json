@@ -5,8 +5,8 @@
   "scripts": {
     "clean": "rm -rf public",
     "tailwind": "tailwindcss build src/css/tailwind.css -o src/css/styles.css -c tailwind.config.js",
-    "dev": "npm run tailwind && eleventy --serve",
-    "build": "npm run tailwind && postcss src/css/styles.css --replace && npm run clean && eleventy"
+    "dev": "npm run tailwind && npx @11ty/eleventy --serve",
+    "build": "npm run tailwind && postcss src/css/styles.css --replace && npm run clean && npx @11ty/eleventy"
   },
   "repository": {
     "type": "git",
