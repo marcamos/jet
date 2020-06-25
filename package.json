@@ -27,7 +27,7 @@
   "homepage": "https://github.com/marcamos/jet#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.0",
-    "@fullhuman/postcss-purgecss": "^2.2.0",
+    "@fullhuman/postcss-purgecss": "^2.3.0",
     "cssnano": "^4.1.10",
     "postcss-cli": "^7.1.1",
     "tailwindcss": "^1.4.6"
