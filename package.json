@@ -1,6 +1,6 @@
 {
   "name": "jet",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "It's (j)ust (e)leventy and (t)ailwind … OK, and a few other things; it's still *really* small though.",
   "scripts": {
     "clean": "rm -rf public",
@@ -27,7 +27,6 @@
   "homepage": "https://github.com/marcamos/jet#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.0",
-    "@fullhuman/postcss-purgecss": "^2.3.0",
     "cssnano": "^4.1.10",
     "postcss-cli": "^7.1.1",
     "tailwindcss": "^1.7.3"
