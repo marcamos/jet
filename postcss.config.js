@@ -1,9 +1,8 @@
-const cssnano = require('cssnano')
+const cssnano = require('cssnano');
+const autoprefixer = require('autoprefixer');
 
-const plugins = [
-  cssnano()
-]
+const plugins = [autoprefixer(), cssnano()];
 
 module.exports = {
-  plugins
-}
+  plugins,
+};
