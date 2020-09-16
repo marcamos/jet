@@ -1,6 +1,6 @@
 {
   "name": "jet",
-  "version": "1.1.0",
+  "version": "1.2.1",
   "description": "It's (j)ust (e)leventy and (t)ailwind … OK, and a few other things; it's still *really* small though.",
   "scripts": {
     "clean": "rm -rf public src/css/styles.css",
