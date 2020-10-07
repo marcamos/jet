@@ -1,7 +1,10 @@
 # jet 🛩
 It’s (j)ust (e)leventy and (t)ailwind … OK, and a few other things; it’s still *really* small though.
+
 * [View on Netlify](https://marcamos-jet.netlify.com/)
 * [View on GitHub](https://github.com/marcamos/jet#readme)
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fmarcamos%2Fjet.git) [![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/marcamos/jet)
 
 ## Goal
 [Eleventy](https://www.11ty.dev/) and [Tailwind CSS](https://tailwindcss.com/) are my favorite things right now.
