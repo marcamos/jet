@@ -27,6 +27,6 @@ That’s it 🕺
 
 
 ## Disclaimer
-I built this in about an hour through trial-and-error, so I'm sure there's _a lot_ of room for improvement.
+I _originally_ built this in about an hour through trial-and-error, so I'm sure there's _a lot_ of room for improvement.
 
 If you try it, find issues and/or think of improvements, please file an issue and/or submit a pull request.
