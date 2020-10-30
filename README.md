@@ -13,15 +13,16 @@ While learning how to use Eleventy, I came across [a few starter projects](https
 
 Personally, I _only_ want Eleventy and Tailwind … and, taking the desire for simplicity one step further, I only want to use them via NPM scripts.
 
-So, I made this thing and it seems to work 🤷‍♀️
+So, I made this and it seems to work 🤷‍♀️
 
 ## How you can use it
-1. Clone this repo
+1. [Clone](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository) this repo
 2. Install dependencies: `npm i`
 3. Start development: `npm run dev`
 4. Visit http://localhost:8080 to see your work-in-progress
 5. Do super-fun Eleventy and Tailwind things
 6. When you’re done: `npm run build`
+7. Host your work somewhere ([Netlify](https://www.netlify.com/) and [Vercel](https://vercel.com/) are nice options)
 
 That’s it 🕺
 
@@ -29,4 +30,4 @@ That’s it 🕺
 ## Disclaimer
 I _originally_ built this in about an hour through trial-and-error, so I'm sure there's _a lot_ of room for improvement.
 
-If you try it, find issues and/or think of improvements, please file an issue and/or submit a pull request.
+If you try it and find issues, or think of improvements, please [file an issue](https://github.com/marcamos/jet/issues/new) and/or [create a pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
