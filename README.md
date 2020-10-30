@@ -22,7 +22,7 @@ So, I made this and it seems to work 🤷‍♀️
 4. Visit http://localhost:8080 to see your work-in-progress
 5. Do super-fun Eleventy and Tailwind things
 6. When you’re done: `npm run build`
-7. Host your work somewhere ([Netlify](https://www.netlify.com/) and [Vercel](https://vercel.com/) are nice options)
+7. Host your project somewhere ([Netlify](https://www.netlify.com/) and [Vercel](https://vercel.com/) are nice options)
 
 That’s it 🕺
 
