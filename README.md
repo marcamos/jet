@@ -16,7 +16,7 @@ Personally, I _only_ want Eleventy and Tailwind … and, taking the desire for 
 So, I made this and it seems to work 🤷‍♀️
 
 ## How you can use it
-1. [Clone](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository) this repo
+1. [Create your own new repo from jet’s template](https://github.com/marcamos/jet/generate), or [clone this one](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 2. Install dependencies: `npm i`
 3. Start development: `npm run dev`
 4. Visit http://localhost:8080 to see your work-in-progress
