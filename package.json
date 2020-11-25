@@ -1,6 +1,6 @@
 {
   "name": "jet",
-  "version": "1.2.1",
+  "version": "2.0.0",
   "description": "It's (j)ust (e)leventy and (t)ailwind … OK, and a few other things; it's still *really* small though.",
   "scripts": {
     "clean": "rm -rf public src/css/styles.css",
@@ -27,8 +27,9 @@
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
     "cssnano": "^4.1.10",
-    "postcss-cli": "^7.1.2",
-    "tailwindcss": "^1.9.6",
-    "autoprefixer": "^9.8.6"
+    "autoprefixer": "^10.0.2",
+    "postcss": "^8.1.10",
+    "postcss-cli": "^8.3.0",
+    "tailwindcss": "^2.0.1"
   }
 }

@@ -26,6 +26,9 @@ So, I made this and it seems to work 🤷‍♀️
 
 That’s it 🕺
 
+## A Note on Tailwind CSS v2.x
+**As of November 25th, 2020, jet has been updated to utilize Tailwind CSS v2.0.** If you want to upgrade your project from Tailwind CSS v1.x to v2.x, the Tailwind folks have a _wonderful_ [Upgrade Guide](https://tailwindcss.com/docs/upgrading-to-v2) you should review.
+
 
 ## Disclaimer
 I _originally_ built this in about an hour through trial-and-error, so I'm sure there's _a lot_ of room for improvement.
