@@ -28,7 +28,7 @@
     "@11ty/eleventy": "^0.12.1",
     "autoprefixer": "^10.3.1",
     "cssnano": "^5.0.7",
-    "postcss": "^8.3.5",
+    "postcss": "^8.3.6",
     "postcss-cli": "^8.3.1",
     "rimraf": "^3.0.2",
     "tailwindcss": "^2.2.7"
