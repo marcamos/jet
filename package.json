@@ -26,7 +26,7 @@
   "homepage": "https://github.com/marcamos/jet#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
-    "autoprefixer": "^10.3.3",
+    "autoprefixer": "^10.3.4",
     "cssnano": "^5.0.8",
     "postcss": "^8.3.6",
     "postcss-cli": "^8.3.1",
