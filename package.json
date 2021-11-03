@@ -3,10 +3,10 @@
   "version": "3.0.0",
   "description": "It's (j)ust (e)leventy and (t)ailwind … OK, and a few other things; it's still *really* small though.",
   "scripts": {
-    "clean": "rimraf public src/css/styles.css",
-    "dev:tailwind": "npx tailwindcss -i src/css/tailwind.css -o src/css/styles.css --watch",
+    "clean": "rimraf public",
+    "dev:tailwind": "npx tailwindcss -i src/css/tailwind.css -o public/css/styles.css --watch",
     "dev:eleventy": "npx @11ty/eleventy --serve",
-    "build:tailwind": "npx tailwindcss -i src/css/tailwind.css -o src/css/styles.css --minify",
+    "build:tailwind": "npx tailwindcss -i src/css/tailwind.css -o public/css/styles.css --minify",
     "build:eleventy": "ELEVENTY_PRODUCTION=true npx @11ty/eleventy",
     "dev": "npm-run-all clean --parallel dev:*",
     "build": "NODE_ENV=production npm-run-all clean build:tailwind build:eleventy"
