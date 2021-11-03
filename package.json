@@ -1,12 +1,12 @@
 {
   "name": "jet",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "It's (j)ust (e)leventy and (t)ailwind … OK, and a few other things; it's still *really* small though.",
   "scripts": {
     "clean": "rimraf public src/css/styles.css",
     "dev:tailwind": "npx tailwindcss -i src/css/tailwind.css -o src/css/styles.css --watch",
     "dev:eleventy": "npx @11ty/eleventy --serve",
-    "build:tailwind": "npx tailwindcss -i src/css/tailwind.css -o src/css/styles.css",
+    "build:tailwind": "npx tailwindcss -i src/css/tailwind.css -o src/css/styles.css --minify",
     "build:eleventy": "ELEVENTY_PRODUCTION=true npx @11ty/eleventy",
     "dev": "npm-run-all clean --parallel dev:*",
     "build": "NODE_ENV=production npm-run-all clean build:tailwind build:eleventy"
@@ -19,8 +19,7 @@
     "eleventy",
     "11ty",
     "tailwind",
-    "tailwindcss",
-    "purgecss"
+    "tailwindcss"
   ],
   "author": "marc amos",
   "license": "ISC",
@@ -30,11 +29,7 @@
   "homepage": "https://github.com/marcamos/jet#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
-    "autoprefixer": "^10.4.0",
-    "cssnano": "^5.0.8",
     "npm-run-all": "^4.1.5",
-    "postcss": "^8.3.11",
-    "postcss-cli": "^9.0.1",
     "rimraf": "^3.0.2",
     "tailwindcss": "^2.2.19"
   }
