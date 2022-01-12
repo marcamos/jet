@@ -26,6 +26,9 @@ So, I made this and it seems to work 🤷‍♀️
 
 That’s it 🕺
 
+## A Note on Eleventy v1.x
+**As of January 12th, 2022, jet has been updated to utilize Eleventy v1.x.** If you want to upgrade your project from Eleventy v0.x to v1.x, you can just upgrade the dependency and use [a helper plugin](https://github.com/11ty/eleventy-upgrade-help) to help you migrate!
+
 ## A Note on Tailwind CSS v3.x
 **As of December 10th, 2021, jet has been updated to utilize Tailwind CSS v3.0.** If you want to upgrade your project from Tailwind CSS v2.x to v3.x, the Tailwind folks have a _wonderful_ [Upgrade Guide](https://tailwindcss.com/docs/upgrade-guide) you should review.
 
