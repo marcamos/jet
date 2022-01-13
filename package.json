@@ -1,6 +1,6 @@
 {
   "name": "jet",
-  "version": "4.0.0",
+  "version": "4.1.1",
   "description": "It's (j)ust (e)leventy and (t)ailwind … OK, and a few other things; it's still *really* small though.",
   "scripts": {
     "clean": "rimraf public",
