@@ -26,6 +26,9 @@ So, I made this and it seems to work 🤷‍♀️
 
 That’s it 🕺
 
+## A Note on Eleventy v3.x
+**As of October 17th, 2024, jet has been updated to utilize Eleventy v3.x.** If you want to upgrade your project from Eleventy v2.x to v3.x, there’s a [a helper plugin](https://github.com/11ty/eleventy-upgrade-help).
+
 ## A Note on Eleventy v2.x
 **As of February 17th, 2023, jet has been updated to utilize Eleventy v2.x.** If you want to upgrade your project from Eleventy v1.x to v2.x, there’s a [a helper plugin](https://github.com/11ty/eleventy-upgrade-help).
 
