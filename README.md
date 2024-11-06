@@ -4,7 +4,7 @@ It’s (j)ust (e)leventy and (t)ailwind … OK, and a few other things; it’s 
 * [View on Netlify](https://marcamos-jet.netlify.app/)
 * [View on GitHub](https://github.com/marcamos/jet#readme)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fmarcamos%2Fjet.git) [![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/marcamos/jet)
+[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/marcamos/jet)
 
 ## Goal
 While learning how to use [Eleventy](https://www.11ty.dev/), I came across [a few starter projects](https://www.11ty.dev/docs/starter/) that combine it with Tailwind CSS, which is _neat_, but they also come with so much more.
