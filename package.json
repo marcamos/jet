@@ -1,12 +1,12 @@
 {
   "name": "jet",
-  "version": "6.0.0",
+  "version": "7.0.0",
   "description": "It's (j)ust (e)leventy and (t)ailwind … OK, and a few other things; it's still *really* small though.",
   "scripts": {
     "clean": "rimraf public",
-    "dev:tailwind": "npx tailwindcss -i src/css/tailwind.css -o public/css/styles.css --watch",
+    "dev:tailwind": "npx @tailwindcss/cli -i src/css/tailwind.css -o public/css/styles.css --watch",
     "dev:eleventy": "npx @11ty/eleventy --serve",
-    "build:tailwind": "npx tailwindcss -i src/css/tailwind.css -o public/css/styles.css --minify",
+    "build:tailwind": "npx @tailwindcss/cli -i src/css/tailwind.css -o public/css/styles.css --minify",
     "build:eleventy": "ELEVENTY_PRODUCTION=true npx @11ty/eleventy",
     "dev": "npm-run-all clean --parallel dev:*",
     "build": "NODE_ENV=production npm-run-all clean build:eleventy build:tailwind"
@@ -31,6 +31,7 @@
     "@11ty/eleventy": "^3.0.0",
     "npm-run-all": "^4.1.5",
     "rimraf": "^6.0.1",
-    "tailwindcss": "^3.4.17"
+    "tailwindcss": "^4.0.2",
+    "@tailwindcss/cli": "^4.0.2"
   }
 }
